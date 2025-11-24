@@ -1,14 +1,14 @@
 {
   "cases": [
     {
-      "title": "68yo with progressive breathlessness",
-      "diagnosis": "143",
+      "title": "Case #1",
+      "diagnosis": "1111",
       "clues": [
-        "Exertional dyspnea over weeks",
-        "Bibasilar crackles on lung exam",
-        "Orthopnea and paroxysmal nocturnal dyspnea",
-        "Chest x-ray: cardiomegaly and pulmonary interstitial edema",
-        "BNP markedly elevated"
+        "A 47-year-old woman presents with three days of worsening productive cough that is now interfering with her sleep.",
+        "She reports fever, chills, pleuritic chest pain, and increasing shortness of breath, especially with exertion.",
+        "On exam, she appears mildly ill and is tachypneic, with a respiratory rate of 24. She also notes fatigue and decreased appetite.",
+        "Auscultation of the lungs reveals focal crackles and bronchial breath sounds over the right lower lobe.",
+        "A chest X-ray shows a right lower-lobe consolidation"
       ]
     },
   ]
