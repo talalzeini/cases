@@ -1,7 +1,7 @@
 {
   "cases": [
     {
-      "id": "1",
+      "number": "1",
       "diagnosis": "1111",
       "clues": [
         "A 47-year-old woman presents with three days of worsening productive cough that is now interfering with her sleep.",
@@ -12,7 +12,7 @@
       ]
     },
     {
-      "id": "2",
+      "number": "2",
       "diagnosis": "8",
       "clues": [
         "A 1-year-old infant is brought in for recurrent episodes of sudden, brief flexion of the torso and arms occurring in clusters.",
