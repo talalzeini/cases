@@ -24,7 +24,7 @@
     },
     {
       "number": "3",
-      "diagnosis": "Pneumonia",
+      "diagnosis": "1111",
       "clues": [
         "A 65-year-old man with a history of COPD presents with fever, productive cough, and shortness of breath for 4 days.",
         "He reports purulent sputum and pleuritic chest pain.",
@@ -35,7 +35,7 @@
     },
     {
       "number": "4",
-      "diagnosis": "Diabetes Mellitus Type 2",
+      "diagnosis": "1111",
       "clues": [
         "A 55-year-old man presents for routine checkup and reports increased thirst, frequent urination, and unexplained weight loss over the past 3 months.",
         "He has a family history of type 2 diabetes and leads a sedentary lifestyle.",
@@ -46,7 +46,7 @@
     },
     {
       "number": "5",
-      "diagnosis": "Appendicitis",
+      "diagnosis": "1111",
       "clues": [
         "A 22-year-old man presents with 12 hours of abdominal pain, initially periumbilical but now localized to the right lower quadrant.",
         "He reports nausea and one episode of vomiting, with loss of appetite.",
@@ -57,7 +57,7 @@
     },
     {
       "number": "6",
-      "diagnosis": "Asthma",
+      "diagnosis": "1111",
       "clues": [
         "A 14-year-old girl presents with episodic wheezing, cough, and shortness of breath, worse at night and during exercise.",
         "Symptoms often follow upper respiratory infections.",
@@ -68,7 +68,7 @@
     },
     {
       "number": "7",
-      "diagnosis": "Stroke (Ischemic)",
+      "diagnosis": "1111",
       "clues": [
         "A 70-year-old woman suddenly develops right-sided weakness and slurred speech.",
         "Her symptoms began 1 hour ago while watching TV.",
@@ -79,7 +79,7 @@
     },
     {
       "number": "8",
-      "diagnosis": "Hyperthyroidism (Graves Disease)",
+      "diagnosis": "1111",
       "clues": [
         "A 35-year-old woman presents with palpitations, weight loss despite increased appetite, and heat intolerance.",
         "She reports increased sweating and nervousness.",
@@ -90,7 +90,7 @@
     },
     {
       "number": "9",
-      "diagnosis": "Myocardial Infarction (STEMI)",
+      "diagnosis": "1111",
       "clues": [
         "A 60-year-old man presents with sudden-onset severe substernal chest pain radiating to the left arm and jaw.",
         "He is diaphoretic and nauseated.",
@@ -101,7 +101,7 @@
     },
     {
       "number": "10",
-      "diagnosis": "Pneumothorax",
+      "diagnosis": "1111",
       "clues": [
         "A 28-year-old tall, thin man presents with sudden-onset right-sided pleuritic chest pain and shortness of breath.",
         "He denies trauma.",
@@ -112,7 +112,7 @@
     },
     {
       "number": "11",
-      "diagnosis": "Cholecystitis",
+      "diagnosis": "1111",
       "clues": [
         "A 45-year-old woman presents with right upper quadrant abdominal pain radiating to the right shoulder.",
         "She reports nausea and vomiting after eating fatty meals.",
@@ -123,7 +123,7 @@
     },
     {
       "number": "12",
-      "diagnosis": "Chronic Kidney Disease (CKD)",
+      "diagnosis": "1111",
       "clues": [
         "A 60-year-old man with a history of hypertension and type 2 diabetes presents for routine follow-up.",
         "He reports fatigue and swelling in his lower legs.",
