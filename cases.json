@@ -22,5 +22,115 @@
         "EEG shows a hypsarrhythmia pattern consistent with infantile spasms."
       ]
     },
+    {
+      "number": "3",
+      "diagnosis": "Pneumonia",
+      "clues": [
+        "A 65-year-old man with a history of COPD presents with fever, productive cough, and shortness of breath for 4 days.",
+        "He reports purulent sputum and pleuritic chest pain.",
+        "On exam, he is febrile, tachycardic, and auscultation reveals crackles and wheezing in the right upper lobe.",
+        "Chest X-ray shows patchy consolidation in the right upper lobe.",
+        "Lab work reveals leukocytosis with a left shift."
+      ]
+    },
+    {
+      "number": "4",
+      "diagnosis": "Diabetes Mellitus Type 2",
+      "clues": [
+        "A 55-year-old man presents for routine checkup and reports increased thirst, frequent urination, and unexplained weight loss over the past 3 months.",
+        "He has a family history of type 2 diabetes and leads a sedentary lifestyle.",
+        "On exam, he is overweight and has acanthosis nigricans on the back of his neck.",
+        "Lab work shows fasting glucose of 160 mg/dL and HbA1c of 8.2%.",
+        "Urinalysis shows glucosuria without ketones."
+      ]
+    },
+    {
+      "number": "5",
+      "diagnosis": "Appendicitis",
+      "clues": [
+        "A 22-year-old man presents with 12 hours of abdominal pain, initially periumbilical but now localized to the right lower quadrant.",
+        "He reports nausea and one episode of vomiting, with loss of appetite.",
+        "On exam, he has tenderness at McBurney's point and positive Rovsing sign.",
+        "Laboratory studies reveal mild leukocytosis.",
+        "Ultrasound shows a non-compressible, enlarged appendix."
+      ]
+    },
+    {
+      "number": "6",
+      "diagnosis": "Asthma",
+      "clues": [
+        "A 14-year-old girl presents with episodic wheezing, cough, and shortness of breath, worse at night and during exercise.",
+        "Symptoms often follow upper respiratory infections.",
+        "She has a history of atopic dermatitis and allergic rhinitis.",
+        "Pulmonary function tests show reversible airway obstruction after bronchodilator administration.",
+        "Physical exam reveals diffuse expiratory wheezing."
+      ]
+    },
+    {
+      "number": "7",
+      "diagnosis": "Stroke (Ischemic)",
+      "clues": [
+        "A 70-year-old woman suddenly develops right-sided weakness and slurred speech.",
+        "Her symptoms began 1 hour ago while watching TV.",
+        "On exam, she has right facial droop, right upper and lower extremity weakness, and expressive aphasia.",
+        "CT scan of the head shows no hemorrhage.",
+        "MRI confirms an acute infarct in the left middle cerebral artery territory."
+      ]
+    },
+    {
+      "number": "8",
+      "diagnosis": "Hyperthyroidism (Graves Disease)",
+      "clues": [
+        "A 35-year-old woman presents with palpitations, weight loss despite increased appetite, and heat intolerance.",
+        "She reports increased sweating and nervousness.",
+        "On exam, she has a diffuse goiter and exophthalmos.",
+        "Laboratory tests reveal suppressed TSH and elevated free T4 and T3.",
+        "Thyroid uptake scan shows diffusely increased uptake."
+      ]
+    },
+    {
+      "number": "9",
+      "diagnosis": "Myocardial Infarction (STEMI)",
+      "clues": [
+        "A 60-year-old man presents with sudden-onset severe substernal chest pain radiating to the left arm and jaw.",
+        "He is diaphoretic and nauseated.",
+        "Past medical history includes hypertension and hyperlipidemia.",
+        "ECG shows ST-segment elevation in leads II, III, and aVF.",
+        "Troponin I levels are significantly elevated."
+      ]
+    },
+    {
+      "number": "10",
+      "diagnosis": "Pneumothorax",
+      "clues": [
+        "A 28-year-old tall, thin man presents with sudden-onset right-sided pleuritic chest pain and shortness of breath.",
+        "He denies trauma.",
+        "On exam, breath sounds are absent on the right side, with hyperresonance to percussion.",
+        "Vital signs show mild tachypnea and tachycardia.",
+        "Chest X-ray confirms a right-sided pneumothorax."
+      ]
+    },
+    {
+      "number": "11",
+      "diagnosis": "Cholecystitis",
+      "clues": [
+        "A 45-year-old woman presents with right upper quadrant abdominal pain radiating to the right shoulder.",
+        "She reports nausea and vomiting after eating fatty meals.",
+        "On exam, she has tenderness in the right upper quadrant and a positive Murphy sign.",
+        "Ultrasound reveals gallstones and thickened gallbladder wall.",
+        "Laboratory studies show mild leukocytosis and elevated liver enzymes."
+      ]
+    },
+    {
+      "number": "12",
+      "diagnosis": "Chronic Kidney Disease (CKD)",
+      "clues": [
+        "A 60-year-old man with a history of hypertension and type 2 diabetes presents for routine follow-up.",
+        "He reports fatigue and swelling in his lower legs.",
+        "Lab tests reveal elevated serum creatinine and decreased eGFR.",
+        "Urinalysis shows proteinuria and hematuria.",
+        "Renal ultrasound shows bilaterally small kidneys with increased echogenicity."
+      ]
+    }
   ]
 }
