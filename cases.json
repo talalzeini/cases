@@ -9,7 +9,8 @@
         "On exam, she appears mildly ill and is tachypneic, with a respiratory rate of 24. She also notes fatigue and decreased appetite.",
         "Auscultation of the lungs reveals focal crackles and bronchial breath sounds over the right lower lobe.",
         "A chest X-ray shows a right lower-lobe consolidation"
-      ]
+      ],
+      "type": "Heart"
     },
     {
       "number": "2",
@@ -20,7 +21,8 @@
         "Physical exam reveals several hypomelanotic ‘ash-leaf’ macules on the trunk and legs, more visible under a Wood’s lamp.",
         "Parents mention that a cardiac rhabdomyoma was detected at birth during a murmur workup.",
         "EEG shows a hypsarrhythmia pattern consistent with infantile spasms."
-      ]
+      ],
+      "type": "Lungs"
     },
     {
       "number": "3",
@@ -31,7 +33,8 @@
         "On exam, he is febrile, tachycardic, and auscultation reveals crackles and wheezing in the right upper lobe.",
         "Chest X-ray shows patchy consolidation in the right upper lobe.",
         "Lab work reveals leukocytosis with a left shift."
-      ]
+      ],
+       "type": "Brain"
     },
     {
       "number": "4",
@@ -42,7 +45,8 @@
         "On exam, he is overweight and has acanthosis nigricans on the back of his neck.",
         "Lab work shows fasting glucose of 160 mg/dL and HbA1c of 8.2%.",
         "Urinalysis shows glucosuria without ketones."
-      ]
+      ],
+      "type": "Lungs"
     },
     {
       "number": "5",
@@ -53,7 +57,8 @@
         "On exam, he has tenderness at McBurney's point and positive Rovsing sign.",
         "Laboratory studies reveal mild leukocytosis.",
         "Ultrasound shows a non-compressible, enlarged appendix."
-      ]
+      ],
+      "type": "Heart"
     },
     {
       "number": "6",
@@ -64,7 +69,8 @@
         "She has a history of atopic dermatitis and allergic rhinitis.",
         "Pulmonary function tests show reversible airway obstruction after bronchodilator administration.",
         "Physical exam reveals diffuse expiratory wheezing."
-      ]
+      ],
+      "type": "Heart"
     },
     {
       "number": "7",
@@ -75,7 +81,8 @@
         "On exam, she has right facial droop, right upper and lower extremity weakness, and expressive aphasia.",
         "CT scan of the head shows no hemorrhage.",
         "MRI confirms an acute infarct in the left middle cerebral artery territory."
-      ]
+      ],
+      "type": "Heart"
     },
     {
       "number": "8",
@@ -86,7 +93,8 @@
         "On exam, she has a diffuse goiter and exophthalmos.",
         "Laboratory tests reveal suppressed TSH and elevated free T4 and T3.",
         "Thyroid uptake scan shows diffusely increased uptake."
-      ]
+      ],
+      "type": "Heart"
     },
     {
       "number": "9",
@@ -97,7 +105,8 @@
         "Past medical history includes hypertension and hyperlipidemia.",
         "ECG shows ST-segment elevation in leads II, III, and aVF.",
         "Troponin I levels are significantly elevated."
-      ]
+      ],
+      "type": "Heart"
     },
     {
       "number": "10",
@@ -108,7 +117,8 @@
         "On exam, breath sounds are absent on the right side, with hyperresonance to percussion.",
         "Vital signs show mild tachypnea and tachycardia.",
         "Chest X-ray confirms a right-sided pneumothorax."
-      ]
+      ],
+      "type": "Heart"
     },
     {
       "number": "11",
@@ -119,7 +129,8 @@
         "On exam, she has tenderness in the right upper quadrant and a positive Murphy sign.",
         "Ultrasound reveals gallstones and thickened gallbladder wall.",
         "Laboratory studies show mild leukocytosis and elevated liver enzymes."
-      ]
+      ],
+      "type": "Lungs"
     },
     {
       "number": "12",
@@ -130,7 +141,8 @@
         "Lab tests reveal elevated serum creatinine and decreased eGFR.",
         "Urinalysis shows proteinuria and hematuria.",
         "Renal ultrasound shows bilaterally small kidneys with increased echogenicity."
-      ]
+      ],
+      "type": "Heart"
     }
   ]
 }
