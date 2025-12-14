@@ -26,7 +26,7 @@
     },
     {
       "number": "3",
-      "diagnosis": "1111",
+      "diagnosis": "254",
       "clues": [
         "A 65-year-old man with a history of COPD presents with fever, productive cough, and shortness of breath for 4 days.",
         "He reports purulent sputum and pleuritic chest pain.",
@@ -38,7 +38,7 @@
     },
     {
       "number": "4",
-      "diagnosis": "1111",
+      "diagnosis": "818",
       "clues": [
         "A 55-year-old man presents for routine checkup and reports increased thirst, frequent urination, and unexplained weight loss over the past 3 months.",
         "He has a family history of type 2 diabetes and leads a sedentary lifestyle.",
