@@ -50,7 +50,7 @@
     },
     {
       "number": "5",
-      "diagnosis": "1111",
+      "diagnosis": "849",
       "clues": [
         "A 22-year-old man presents with 12 hours of abdominal pain, initially periumbilical but now localized to the right lower quadrant.",
         "He reports nausea and one episode of vomiting, with loss of appetite.",
@@ -62,7 +62,7 @@
     },
     {
       "number": "6",
-      "diagnosis": "1111",
+      "diagnosis": "449",
       "clues": [
         "A 14-year-old girl presents with episodic wheezing, cough, and shortness of breath, worse at night and during exercise.",
         "Symptoms often follow upper respiratory infections.",
@@ -74,7 +74,7 @@
     },
     {
       "number": "7",
-      "diagnosis": "1111",
+      "diagnosis": "15",
       "clues": [
         "A 70-year-old woman suddenly develops right-sided weakness and slurred speech.",
         "Her symptoms began 1 hour ago while watching TV.",
