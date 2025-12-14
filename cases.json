@@ -86,7 +86,7 @@
     },
     {
       "number": "8",
-      "diagnosis": "1111",
+      "diagnosis": "547",
       "clues": [
         "A 35-year-old woman presents with palpitations, weight loss despite increased appetite, and heat intolerance.",
         "She reports increased sweating and nervousness.",
@@ -98,7 +98,7 @@
     },
     {
       "number": "9",
-      "diagnosis": "1111",
+      "diagnosis": "330",
       "clues": [
         "A 60-year-old man presents with sudden-onset severe substernal chest pain radiating to the left arm and jaw.",
         "He is diaphoretic and nauseated.",
@@ -110,7 +110,7 @@
     },
     {
       "number": "10",
-      "diagnosis": "1111",
+      "diagnosis": "995",
       "clues": [
         "A 28-year-old tall, thin man presents with sudden-onset right-sided pleuritic chest pain and shortness of breath.",
         "He denies trauma.",
