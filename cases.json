@@ -10,7 +10,7 @@
         "Auscultation of the lungs reveals focal crackles and bronchial breath sounds over the right lower lobe.",
         "A chest X-ray shows a right lower-lobe consolidation"
       ],
-      "type": "Heart"
+      "type": "Lungs"
     },
     {
       "number": "2",
@@ -22,7 +22,7 @@
         "Parents mention that a cardiac rhabdomyoma was detected at birth during a murmur workup.",
         "EEG shows a hypsarrhythmia pattern consistent with infantile spasms."
       ],
-      "type": "Lungs"
+      "type": "Neuro"
     },
     {
       "number": "3",
@@ -34,7 +34,7 @@
         "Chest X-ray shows patchy consolidation in the right upper lobe.",
         "Lab work reveals leukocytosis with a left shift."
       ],
-       "type": "Brain"
+       "type": "Lungs"
     },
     {
       "number": "4",
@@ -46,7 +46,7 @@
         "Lab work shows fasting glucose of 160 mg/dL and HbA1c of 8.2%.",
         "Urinalysis shows glucosuria without ketones."
       ],
-      "type": "Lungs"
+      "type": "Metabolic"
     },
     {
       "number": "5",
@@ -58,7 +58,7 @@
         "Laboratory studies reveal mild leukocytosis.",
         "Ultrasound shows a non-compressible, enlarged appendix."
       ],
-      "type": "Heart"
+      "type": "GI"
     },
     {
       "number": "6",
@@ -70,7 +70,7 @@
         "Pulmonary function tests show reversible airway obstruction after bronchodilator administration.",
         "Physical exam reveals diffuse expiratory wheezing."
       ],
-      "type": "Heart"
+      "type": "Lungs"
     },
     {
       "number": "7",
@@ -82,7 +82,7 @@
         "CT scan of the head shows no hemorrhage.",
         "MRI confirms an acute infarct in the left middle cerebral artery territory."
       ],
-      "type": "Heart"
+      "type": "Neuro"
     },
     {
       "number": "8",
@@ -94,7 +94,7 @@
         "Laboratory tests reveal suppressed TSH and elevated free T4 and T3.",
         "Thyroid uptake scan shows diffusely increased uptake."
       ],
-      "type": "Heart"
+      "type": "Endocrine"
     },
     {
       "number": "9",
@@ -118,7 +118,7 @@
         "Vital signs show mild tachypnea and tachycardia.",
         "Chest X-ray confirms a right-sided pneumothorax."
       ],
-      "type": "Heart"
+      "type": "Lungs"
     },
     {
       "number": "11",
@@ -130,7 +130,7 @@
         "Ultrasound reveals gallstones and thickened gallbladder wall.",
         "Laboratory studies show mild leukocytosis and elevated liver enzymes."
       ],
-      "type": "Lungs"
+      "type": "GI"
     },
     {
       "number": "12",
@@ -142,7 +142,7 @@
         "Urinalysis shows proteinuria and hematuria.",
         "Renal ultrasound shows bilaterally small kidneys with increased echogenicity."
       ],
-      "type": "Heart"
+      "type": "Renal"
     }
   ]
 }
