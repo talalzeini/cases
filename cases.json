@@ -143,6 +143,222 @@
         "Renal ultrasound shows bilaterally small kidneys with increased echogenicity."
       ],
       "type": "Renal"
+    },
+    {
+      "number": "13",
+      "diagnosis": "549",
+      "clues": [
+        "A 24-year-old woman presents with dysuria, urinary frequency, and suprapubic discomfort for 2 days.",
+        "She denies fever, chills, or flank pain.",
+        "She is sexually active and recently started a new relationship.",
+        "Urinalysis shows positive leukocyte esterase and nitrites.",
+        "Urine culture grows Escherichia coli."
+      ],
+      "type": "Renal"
+    },
+    {
+      "number": "14",
+      "diagnosis": "778",
+      "clues": [
+        "A 68-year-old man presents with progressive memory loss over the past year.",
+        "His family reports difficulty managing finances and frequent repetition of questions.",
+        "Neurologic exam is otherwise normal.",
+        "MRI shows hippocampal atrophy.",
+        "Cognitive testing reveals impaired short-term memory."
+      ],
+      "type": "Neuro"
+    },
+    {
+      "number": "15",
+      "diagnosis": "43",
+      "clues": [
+        "A 30-year-old woman presents with fatigue and shortness of breath on exertion.",
+        "She reports heavy menstrual bleeding.",
+        "Physical exam shows conjunctival pallor.",
+        "Labs reveal low hemoglobin, low ferritin, and elevated TIBC.",
+        "Peripheral smear shows microcytic hypochromic red blood cells."
+      ],
+      "type": "Heme"
+    },
+    {
+      "number": "16",
+      "diagnosis": "Esophageal carcinoma",
+      "clues": [
+        "A 55-year-old man presents with progressive dysphagia to solids and liquids.",
+        "He reports unintentional weight loss.",
+        "He has a long history of smoking and alcohol use.",
+        "Barium swallow shows irregular esophageal narrowing.",
+        "Endoscopy confirms malignant cells."
+      ],
+      "type": "GI"
+    },
+    {
+      "number": "17",
+      "diagnosis": "Infectious mononucleosis",
+      "clues": [
+        "A 19-year-old college student presents with fever, sore throat, and fatigue.",
+        "Physical exam reveals posterior cervical lymphadenopathy.",
+        "He has splenomegaly.",
+        "Monospot test is positive.",
+        "CBC shows atypical lymphocytes."
+      ],
+      "type": "Infectious"
+    },
+    {
+      "number": "18",
+      "diagnosis": "Heart failure with reduced ejection fraction",
+      "clues": [
+        "A 60-year-old man presents with dyspnea on exertion and leg swelling.",
+        "He has a history of hypertension and prior myocardial infarction.",
+        "Physical exam reveals crackles and pitting edema.",
+        "Echocardiogram shows reduced ejection fraction.",
+        "Chest X-ray shows cardiomegaly."
+      ],
+      "type": "Heart"
+    },
+    {
+      "number": "19",
+      "diagnosis": "1072",
+      "clues": [
+        "A 26-year-old woman presents with joint pain and fatigue.",
+        "She has a malar rash that worsens with sun exposure.",
+        "Urinalysis shows proteinuria.",
+        "Labs reveal anti-dsDNA antibodies.",
+        "Complement levels are low."
+      ],
+      "type": "Rheum"
+    },
+    {
+      "number": "20",
+      "diagnosis": "787",
+      "clues": [
+        "A 72-year-old man presents with resting tremor and slowness of movement.",
+        "He has a shuffling gait and difficulty initiating motion.",
+        "Physical exam reveals cogwheel rigidity.",
+        "Symptoms improve with levodopa.",
+        "Brain imaging is unremarkable."
+      ],
+      "type": "Neuro"
+    },
+    {
+      "number": "21",
+      "diagnosis": "Pheochromocytoma",
+      "clues": [
+        "A 45-year-old woman presents with episodic headaches and palpitations.",
+        "She reports sweating during episodes.",
+        "Blood pressure is intermittently elevated.",
+        "Plasma metanephrines are elevated.",
+        "CT scan reveals an adrenal mass."
+      ],
+      "type": "Endocrine"
+    },
+    {
+      "number": "22",
+      "diagnosis": "Acute pancreatitis",
+      "clues": [
+        "A 38-year-old man presents with severe epigastric pain radiating to the back.",
+        "Pain began after heavy alcohol intake.",
+        "He has nausea and vomiting.",
+        "Serum lipase is markedly elevated.",
+        "CT scan shows pancreatic inflammation."
+      ],
+      "type": "GI"
+    },
+    {
+      "number": "23",
+      "diagnosis": "Croup",
+      "clues": [
+        "A 5-year-old child presents with barking cough and inspiratory stridor.",
+        "Symptoms worsen at night.",
+        "He has a low-grade fever.",
+        "Chest X-ray shows a steeple sign.",
+        "Symptoms improve with nebulized epinephrine."
+      ],
+      "type": "Lungs"
+    },
+    {
+      "number": "24",
+      "diagnosis": "Bladder cancer",
+      "clues": [
+        "A 62-year-old man presents with painless hematuria.",
+        "He has a long history of smoking.",
+        "Urinalysis shows numerous red blood cells.",
+        "CT urogram reveals a bladder mass.",
+        "Cystoscopy confirms malignancy."
+      ],
+      "type": "Renal"
+    },
+    {
+      "number": "25",
+      "diagnosis": "Pulmonary embolism",
+      "clues": [
+        "A 40-year-old woman presents with sudden-onset dyspnea and pleuritic chest pain.",
+        "She recently underwent knee surgery.",
+        "Vital signs reveal tachycardia and hypoxia.",
+        "D-dimer is elevated.",
+        "CT pulmonary angiography confirms emboli."
+      ],
+      "type": "Lungs"
+    },
+    {
+      "number": "26",
+      "diagnosis": "Diabetic ketoacidosis",
+      "clues": [
+        "A 21-year-old man with type 1 diabetes presents with nausea and abdominal pain.",
+        "He has missed several insulin doses.",
+        "Physical exam shows fruity breath and Kussmaul respirations.",
+        "Labs show hyperglycemia, metabolic acidosis, and ketonemia.",
+        "Urinalysis is positive for ketones."
+      ],
+      "type": "Metabolic"
+    },
+    {
+      "number": "27",
+      "diagnosis": "Migraine headache",
+      "clues": [
+        "A 29-year-old woman presents with unilateral throbbing headache.",
+        "She reports nausea and photophobia.",
+        "Symptoms are preceded by visual aura.",
+        "Neurologic exam is normal.",
+        "Pain improves with triptan therapy."
+      ],
+      "type": "Neuro"
+    },
+    {
+      "number": "28",
+      "diagnosis": "Osteoarthritis",
+      "clues": [
+        "A 65-year-old man presents with chronic knee pain worsened by activity.",
+        "Pain improves with rest.",
+        "Morning stiffness lasts less than 30 minutes.",
+        "X-ray shows joint space narrowing and osteophytes.",
+        "Inflammatory markers are normal."
+      ],
+      "type": "MSK"
+    },
+    {
+      "number": "29",
+      "diagnosis": "Peptic ulcer disease",
+      "clues": [
+        "A 48-year-old man presents with burning epigastric pain.",
+        "Pain improves with eating.",
+        "He frequently uses NSAIDs.",
+        "Endoscopy shows a gastric ulcer.",
+        "Biopsy is negative for malignancy."
+      ],
+      "type": "GI"
+    },
+    {
+      "number": "30",
+      "diagnosis": "Sepsis",
+      "clues": [
+        "A 70-year-old man presents with fever and confusion.",
+        "Vital signs reveal hypotension and tachycardia.",
+        "Labs show elevated lactate and leukocytosis.",
+        "Blood cultures are positive for gram-negative bacteria.",
+        "He requires IV fluids and broad-spectrum antibiotics."
+      ],
+      "type": "Infectious"
     }
   ]
 }
